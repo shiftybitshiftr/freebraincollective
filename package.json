@@ -1,0 +1,13 @@
+{
+  "name": "free-brain-collective",
+  "version": "1.0.0",
+  "description": "A simplified version of csnades.gg",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
